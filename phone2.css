@@ -51,10 +51,16 @@ font-size: 0.6rem;
 
 #uniq img
 {
-    width: 300px;
-    height: 196px;
+    width: 260px;
+    height: 146px;
 }
 
+#right a
+{
+    color: white;
+    text-decoration: none;
+    font-size: 5px;
+}
 
 .item button
 {
