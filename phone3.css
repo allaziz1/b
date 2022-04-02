@@ -1,0 +1,33 @@
+#navigation li a
+{
+    font-size: 27px;
+    padding: 9px;
+}
+
+#home
+{
+    display: flex;
+    flex-direction: column;
+}
+
+#right img
+{
+    width: 180px;
+}
+
+#left h1
+{
+    font-size: 3rem;
+}
+
+#left
+{
+    flex-basis: 0%;
+    margin-top: 104px;
+}
+
+#social li a
+{
+    padding: 10px 30px;
+ 
+}
