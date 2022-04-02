@@ -146,6 +146,7 @@ font-size: 3.3rem;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+
 }
 
 .prd
@@ -165,6 +166,7 @@ font-size: 3.3rem;
     padding: 10px 20px;
     border-radius: 10px;
     background-color: olivedrab;
+    Border: 1px solid olivedrab;
 }
 
 .item a
