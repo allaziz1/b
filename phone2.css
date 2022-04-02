@@ -36,16 +36,16 @@ font-size: 0.6rem;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 290px;
-    width: 290px;
+    height: 280px;
+    width: 280px;
     background: rgb(15,32,39);
     background: linear-gradient(90deg, rgba(15,32,39,1) 8%, rgba(255,69,0,1) 79%);    border-radius: 196px;
 }
 
 #products2 img,#products img
 {
-    width: 305px;
-    height: 280.5;
+    width: 290px;
+    height: 260.5;
 }
 
 
